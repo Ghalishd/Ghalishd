@@ -1,4 +1,4 @@
-print("Htllo, world:)
+print("Hello, world:)
 
 
 Kostya®
